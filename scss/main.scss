@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+button{
+    color: white;
+    background-color: grey;
+    padding: 2px 15px;
+    outline: 0;
+    border: 0;
+}
+
+input{
+    width: 300px;
+    outline: 0;
+    border: 0;
+    padding: 2px 0;
+    margin-right: 25px;
+    margin-left: 10px;
+}
+
+// input::placeholder{
+//     padding-left: 10px;
+// }
+
+// input:focus{
+//     padding-left: 10px;
+// }
